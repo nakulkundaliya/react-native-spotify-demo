@@ -22,3 +22,9 @@ $ npm i
 ```
 $ react-native run-android
 ```
+
+4. DEMO
+
+![alt text](https://github.com/nakulkundaliya/react-native-spotify-demo/blob/master/screenshots/Playlist.png)
+![alt text](https://github.com/nakulkundaliya/react-native-spotify-demo/blob/master/screenshots/TrackList.png)
+![alt text](https://github.com/nakulkundaliya/react-native-spotify-demo/blob/master/screenshots/AlbumList.png)
