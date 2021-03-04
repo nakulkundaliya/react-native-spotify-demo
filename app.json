@@ -1,0 +1,12 @@
+{
+  "name": "spotifyexample",
+  "displayName": "spotifyexample",
+  "expo": {
+    "name": "spotifyexample",
+    "slug": "spotifyexample",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
